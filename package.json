@@ -10,6 +10,9 @@
     "webpack-cli": "^4.10.0"
   },
   "scripts": {
-    "build": "webpack"
-  }
+    "build": "webpack",
+    "serve": "webpack serve"
+  },
+  "repository": "git@github.com:Zr-smallcaps/homework.git",
+  "author": "smallcaps <1827662823@qq.com>"
 }
